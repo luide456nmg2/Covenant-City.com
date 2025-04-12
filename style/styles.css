@@ -1,0 +1,34 @@
+
+    body { 
+        font-family: Arial, sans-serif;
+        margin: 0; padding: 0; 
+        background-image: url(6.jfif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+}
+    header, footer { 
+         color:white;
+         padding: 1em;
+     }
+    nav ul { 
+        list-style: none; 
+        padding: 0; display: flex;
+        flex-wrap: wrap;
+       
+     }
+    nav li a{ 
+        margin-right: 1em;
+        text-decoration: none;
+
+     }
+    nav a { 
+        color: white;
+     }
+    main { 
+        color: white;
+        padding: 1em; 
+        
+    }
+   
+  
